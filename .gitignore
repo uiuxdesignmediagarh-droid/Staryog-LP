@@ -1,0 +1,5 @@
+node_modules
+.next
+data/leads.jsonl
+.env*.local
+next-env.d.ts
